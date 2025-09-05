@@ -30,7 +30,7 @@ I’m always chasing that **sweet spot between beauty and functionality** — cr
 ## 🛠️ Languages & Tools I Have Placed My Hands On
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,c,html,css,react,nextjs,flutter,nodejs,express,tailwind,bootstrap,materialui,wordpress,fastapi,mongodb,firebase,postgres,git,github,figma,webflow,canva,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,c,html,css,react,nextjs,flutter,nodejs,express,tailwind,bootstrap,materialui,wordpress,fastapi,mongodb,firebase,postgres,git,github,figma,webflow,vscode" />
 </p>
 
 <br/> <!-- Adds spacing -->
@@ -85,4 +85,16 @@ I’m always chasing that **sweet spot between beauty and functionality** — cr
   <a href="https://pinterest.com/luzianadmello" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
+</p>
+
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=creativeluziana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=creativeluziana&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeluziana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="300"/>
 </p>
