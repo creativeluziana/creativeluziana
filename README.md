@@ -12,3 +12,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76E3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Data+Enthusiast;Loves+building+beautiful+UIs;Always+learning+something+new" />
 </p>
+
+
