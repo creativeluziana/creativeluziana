@@ -10,17 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76E3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Data+Enthusiast;Loves+building+beautiful+UIs;Always+learning+something+new" />
 </p>
 
-
 ## 🌸 About Me
-<hr style="border:0.5px solid #444;"/>
 
-<p align="left">
-  ✨ I’m Luziana Dmello, a Computer Engineering student and a builder at heart. <br/>
-  🌱 I love working on <b>AI/ML</b>, <b>Full-Stack Development</b>, and crafting beautiful UIs. <br/>
-  💻 Currently building projects like <b>StuDex</b>, <b>OneTheraCure</b>, <b>Infinity CRM</b>, and <b>BlingxBeyond</b>. <br/>
-  🎯 My goal is to create impactful, future-ready products while constantly learning. <br/>
-</p>
+<img src="https://raw.githubusercontent.com/creativeluziana/creativeluziana/main/coding.png" align="right" width="220" alt="About Me Gif"/>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/creativeluziana/creativeluziana/main/luziana.png" width="250px" alt="About Me Image"/>
-</p>
+✨ I’m Luziana Dmello, a Computer Engineering student and a builder at heart. <br/>  
+🌱 I love working on <b>AI/ML</b>, <b>Full-Stack Development</b>, and crafting beautiful UIs. <br/>  
+💻 Currently building projects like <b>StuDex</b>, <b>OneTheraCure</b>, <b>Infinity CRM</b>, and <b>BlingxBeyond</b>. <br/>  
+🎯 My goal is to create impactful, future-ready products while constantly learning. <br/>  
