@@ -91,10 +91,10 @@ I’m always chasing that **sweet spot between beauty and functionality** — cr
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creativeluziana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=creativeluziana&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=creativeluziana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=creativeluziana&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeluziana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeluziana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150"/>
 </p>
