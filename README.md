@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/creativeluziana/creativeluziana/main/luzianacard.jpg" width="100%" alt="Banner"/>
 </p>
 
+<hr/>
+
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 32px;">
+  Hie! I'm Luziana Dmello ✨
+</h2>
+
 <h1 align="center">Hi, I'm Luziana 👋</h1>
 
 <p align="center">
